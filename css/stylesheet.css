@@ -1,0 +1,42 @@
+/*
+body{
+	background-color:  #FFFFFF; 
+  font-family:Geogia, serif;
+}
+
+#res{
+	background-color: #E6E6E6;
+	width:80%;
+	height:1500px;
+	border-bottom-left-radius: 5em;
+	margin-top: 6em;
+	margin-bottom: 6em;
+	padding:0em;
+
+}
+#tip{
+	background-color: #d04949;
+	height: 1%;
+	width:100%;
+	left: 0em;
+
+}
+#header{
+    margin:2.5em 0em 3em 0em;
+    display:block;
+    height:200px;
+  
+    
+}
+
+#header h1{
+    font-size:60px;
+    text-transform:uppercase;
+    letter-spacing:3px;
+}
+#header h2{
+    text-transform:uppercase;
+    letter-spacing:1px;
+  
+}
+*/
